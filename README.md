@@ -16,6 +16,7 @@ Ember.js讨论、问答社区。
 3. [第三天大于、大于等于、none](http://emberteach.ddlisting.com/2016/09/28/gt-gte-none/)
 4. [第四天collect、filter、filterBy](http://emberteach.ddlisting.com/2016/09/30/collect-filter-filterby/)
 5. [第五天map、mapBy、readOnly](http://emberteach.ddlisting.com/2016/10/11/map-mapby-readonly/)
+6. [第六天max、min、bool](http://emberteach.ddlisting.com/2016/10/12/max-min-bool/)
 
 
 
