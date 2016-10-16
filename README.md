@@ -18,6 +18,8 @@ Ember.js讨论、问答社区。
 5. [第五天map、mapBy、readOnly](http://emberteach.ddlisting.com/2016/10/11/map-mapby-readonly/)
 6. [第六天max、min、bool](http://emberteach.ddlisting.com/2016/10/12/max-min-bool/)
 7. [第七天oneWay、sort、sum](http://emberteach.ddlisting.com/2016/10/13/oneway-sort-sum/)
+8. [每天三个API——uniq、uniqBy、alias](http://emberteach.ddlisting.com/2016/10/14/uniq-uniqby-alias/)
+9. [每天三个API——intersect](http://emberteach.ddlisting.com/2016/10/17/intersect/)
 
 
 
